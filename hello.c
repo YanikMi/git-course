@@ -5,7 +5,7 @@ int main(void){
 }
 
 void greet(const char* name)
-{ 
+{
     printf("Hello, %s!\\n", name); 
 }
 // This function greets a person by name.
